@@ -1,5 +1,4 @@
 #!/bin/python
-import struct
 
 def extract():
         f = open('flag.png', 'rb')
